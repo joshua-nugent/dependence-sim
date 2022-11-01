@@ -9,7 +9,6 @@ library(lme4)
 library(gee)
 source("0_utils.R")
 source("1_sim_and_fit.R")
-source("Stage2_cluster.R")
 
 # IRGTT medium / big sample size
 # Balanced medium / big sample size
